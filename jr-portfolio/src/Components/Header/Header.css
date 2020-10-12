@@ -3,13 +3,21 @@
     border: 2px solid purple;
     height: 40vh;
     width: 60vw;
-    margin: 50px auto;
+    margin: 10vh auto 0 auto;
+    align-content: center;
 }
 .nav-bar{
     border: 2px solid green;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     height: 50px;
+}
+p{
+   margin: auto 20px;
+   text-align: center;
+
+    
 }
 h1{
     font-size: 80px;
