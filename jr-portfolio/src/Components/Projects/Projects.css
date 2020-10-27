@@ -1,0 +1,18 @@
+.projects{
+    border: 2px solid orange;
+    
+}
+
+.projects-box{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid salmon;
+    height: 500px;
+}
+.p-img{
+    height: 350px;
+    width: 350px;
+    border-radius: 25px;
+
+}
+
