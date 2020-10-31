@@ -6,13 +6,21 @@
 .projects-box{
     display: flex;
     flex-wrap: wrap;
+    align-content: center;
+    margin: 0 auto;
     border: 2px solid salmon;
-    height: 500px;
+    height: 380px;
+    width: 90vw; 
+
+}
+.projects-box a{
+    display: flex;
+    margin: 0 auto;
 }
 .p-img{
     height: 350px;
     width: 350px;
     border-radius: 25px;
-
 }
+
 
