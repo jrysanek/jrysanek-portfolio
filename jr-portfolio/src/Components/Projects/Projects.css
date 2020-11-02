@@ -5,6 +5,7 @@
     height: 40vh;
     width: 80vw;
     margin: 80px auto;
+    border-radius: 25px;
     
 }
 
@@ -16,11 +17,16 @@
     /* border: 2px solid black; */
     height: 25vh;
     width: 60vw; 
+   
 
+}
+.projects h5{
+    padding-top: 30px;
 }
 .projects-box a{
     display: flex;
     margin: 0 auto;
+    padding-top: 10px;
 }
 .p-img{
     height: 200px;

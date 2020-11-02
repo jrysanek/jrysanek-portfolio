@@ -6,12 +6,17 @@
     width: 80vw;
     border: 4px solid #d9e1de;
     background-color: #d9e1de;
+    border-radius: 25px;
     
+}
+.biography h5{
+    padding-top: 30px;
 }
 .biography p{
     font-size: 25px;
     color: #000000;
     text-align: center;
+    padding-top: 10px;
   
     
     

@@ -9,6 +9,7 @@ a img{
     margin: 80px auto;
     width: 10vw;
     height:5vh;
+    border-radius: 25px;
 }
 .github{
     height: 40px;
