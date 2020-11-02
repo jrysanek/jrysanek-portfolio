@@ -1,17 +1,18 @@
 .header{
-    background-image: url("../../images/bw.jpg");
+    background-image: url("../../images/sunset.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color:#FFFFFF ;
-    border: 8px solid #FFFFFF;
+    background-position: center top;
+    background-color:#d9e1de ;
+    border: 8px solid #d9e1de;
     height: 40vh;
     width: 80vw;
     margin: 10vh auto 0 auto;
     align-content: center;
 }
 .nav-bar{
-    border: 2px solid green;
-    color: #FFFFFF;
+   
+    color: #d9e1de;
     font-weight: 700;
     display: flex;
     flex-wrap: wrap;
@@ -22,27 +23,27 @@
 a{
    margin: auto 20px;
    text-align: center;
-   color: #FFFFFF;
+   color: #d9e1de;
    text-decoration: none;   
 }
 a:visited{
-    color: #8E9DCC;
+    color: #ecb866;
 }
 a:hover{
-    color: #8E9DCC;
+    color: #66a6cd;
 }
 h1{
     font-size: 80px;
     text-align: center;
     margin: 120px auto 0 auto;
     width:79vw;
-    background-color: #FFFFFF;
-    opacity: .9;
+    /* background-color: #d9e1de; */
+    /* opacity: .9; */
     /* border: 2px solid powderblue; */
 }
 h6{
     font-size: 25px;
-    background-color: #FFFFFF;
+    background-color: #d9e1de;
     opacity: .9;
     width: 30vw;
     text-align: center;

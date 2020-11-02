@@ -1,13 +1,11 @@
 body{
-  /* background-image: url("images/stars.jpg"); */
-  background-repeat: no-repeat;
-  background-size: 100vw;
-  background-position: center;
-  background-color: #000000;
+  background-color: #d7907a;
   /* border: 2px solid red; */
+  height: 150vh;
 }
 h5{
   font-size: 35px;
-  color: #FFFFFF;
+  color: #000000;
   text-align: center;
+  margin: 25px auto;
 }
