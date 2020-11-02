@@ -5,7 +5,7 @@ export default function Projects() {
     return (
         <div className="projects">
             
-            <h5>Projects</h5>
+            <h5 id="Projects">Projects</h5>
             <div className="projects-box">
                 {/* <div className="p1"> */}
                     <a href="https://corkit-41ce4e.netlify.app">

@@ -1,34 +1,51 @@
 .header{
-    background-color: white;
-    border: 2px solid purple;
+    background-image: url("../../images/bw.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#FFFFFF ;
+    border: 8px solid #FFFFFF;
     height: 40vh;
-    width: 60vw;
+    width: 80vw;
     margin: 10vh auto 0 auto;
     align-content: center;
 }
 .nav-bar{
     border: 2px solid green;
+    color: #FFFFFF;
+    font-weight: 700;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     height: 50px;
 }
-p{
+
+a{
    margin: auto 20px;
    text-align: center;
-
-    
+   color: #FFFFFF;
+   text-decoration: none;   
+}
+a:visited{
+    color: #8E9DCC;
+}
+a:hover{
+    color: #8E9DCC;
 }
 h1{
     font-size: 80px;
     text-align: center;
-    margin-top: 80px;
-    margin-bottom: 0;
+    margin: 120px auto 0 auto;
+    width:79vw;
+    background-color: #FFFFFF;
+    opacity: .9;
     /* border: 2px solid powderblue; */
 }
 h6{
     font-size: 25px;
+    background-color: #FFFFFF;
+    opacity: .9;
+    width: 30vw;
     text-align: center;
-    margin-top: 0;
+    margin: 0 auto;
     /* border: 2px solid orange; */
 }

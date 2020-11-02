@@ -10,9 +10,9 @@ export default function Header() {
             </div> 
 
             <div className="nav-bar">
-                <p>Biography</p>
-                <p>Projects</p>
-                <p>Contact</p>
+                <a href="#Biography">Biography</a>
+                <a href="#Projects">Projects</a>
+                <a href="#Contact">Contact</a>
             </div>
         </>
     )
